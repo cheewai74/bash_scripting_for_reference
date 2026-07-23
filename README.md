@@ -1,1 +1,4 @@
-# bash_scripting_for_reference
+# Books Completed:
+
+1. Bash in easy steps, mike mcgrath.
+2. 
